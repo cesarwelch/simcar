@@ -1,0 +1,9 @@
+C:\Users\Cesar\Documents\GitHub\simcar\simcar\simcar\bin\Debug\simcar.exe.config
+C:\Users\Cesar\Documents\GitHub\simcar\simcar\simcar\bin\Debug\simcar.exe
+C:\Users\Cesar\Documents\GitHub\simcar\simcar\simcar\bin\Debug\simcar.pdb
+C:\Users\Cesar\Documents\GitHub\simcar\simcar\simcar\obj\Debug\simcar.csprojResolveAssemblyReference.cache
+C:\Users\Cesar\Documents\GitHub\simcar\simcar\simcar\obj\Debug\simcar.Form1.resources
+C:\Users\Cesar\Documents\GitHub\simcar\simcar\simcar\obj\Debug\simcar.Properties.Resources.resources
+C:\Users\Cesar\Documents\GitHub\simcar\simcar\simcar\obj\Debug\simcar.csproj.GenerateResource.Cache
+C:\Users\Cesar\Documents\GitHub\simcar\simcar\simcar\obj\Debug\simcar.exe
+C:\Users\Cesar\Documents\GitHub\simcar\simcar\simcar\obj\Debug\simcar.pdb
