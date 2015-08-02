@@ -50,7 +50,7 @@
             this.Text = "Simulador de carro";
             this.ResumeLayout(false);
             this.PerformLayout();
-            car car1 = new car(1, 2, 3, 4, 5);
+            car car1 = new car(1, 2, 3, 4, 6);
 
         }
 
